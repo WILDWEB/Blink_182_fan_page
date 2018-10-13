@@ -26,7 +26,7 @@ body {
    float: left;
 }
 .title-logo#logo{
-    background:url(/images/blink182logo5.jpg);
+    background:url(images/blink182logo5.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -39,7 +39,7 @@ body {
 }
 
 .title-logo#title{
-    background:url(/images/blink182logo3.jpg);
+    background:url(images/blink182logo3.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -87,7 +87,7 @@ body {
 }
 
 .event-list-background {
-    background-image: url(/images/blink182logo2.jpg);
+    background-image: url(images/blink182logo2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -243,7 +243,7 @@ ul{
  
 
 
-h4 {
+h5 {
      font-family:  'Poor Story', cursive;
      font-size: 30px;
      color: white;
