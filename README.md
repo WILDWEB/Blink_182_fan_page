@@ -32,9 +32,8 @@ Also, they are in the process of creating a social media presence and would like
 The client wanted to emphasise and promote their social media.
 Instead of the usual links down in the footer or barely visible side bar, Ive gone for the big and bold approach.
 
-### API Reference
+### Assets/images
 ----------------------------------------
-* assets/images
 
 Audio files sourced from soundcloud-direct link
 Video files sourced from Youtube-direct link
